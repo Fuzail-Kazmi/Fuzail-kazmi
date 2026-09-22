@@ -5,15 +5,20 @@ I'm a **Full Stack Developer** passionate about building clean, scalable solutio
 ---
 
 ## 🚀 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS, TypeScript, Next.js
-- **Backend:** Node.js, Express.js, Python, Django, Django REST Framework
-- **Databases:** MongoDB, PostgreSQL, MySQL
-- **Tools:** Git
+- **Languages:** Python, CSS3, JavaScript, TypeScript, SQL
+- **Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS
+- **Backend:** FastAPI, Flask, Django, Django REST Framework, Node.js, Express.js
+- **Databases:** PostgreSQL, MySQL, SQLite, MariaDB
+- **ERP & Frameworks:** ERP & Frameworks
+- **Tools:** Git, GitHub, Postman, VS Code
+- **Concepts:** REST APIs, Authentication, Authorization, CRUD Operations, API Integration, Database Design, Responsive Design, Version Control
 
 ---
 
 ## 🌟 Featured Project
 - [unitystore](https://github.com/Fuzail-Kazmi/unitystore): Explore my full-stack e-commerce solution built with modern technologies.
+- [controller-server](https://github.com/UnityAlgo/controller-server.git): Explore my backend multi tenancy controller server solution built with modern technologies.
+- [Expense-Billing-Tracker](https://github.com/Fuzail-Kazmi/Water-Bottle-Expense-Billing-Tracker): Explore my full-stack expense tracker solution with modern technologies.
 
 ---
 
