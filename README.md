@@ -5,7 +5,7 @@ I'm a **Full Stack Developer** passionate about building clean, scalable solutio
 ---
 
 ## 🚀 Tech Stack
-- **Languages:** Python, CSS3, JavaScript, TypeScript, SQL
+- **Languages:** Python, JavaScript, TypeScript, SQL
 - **Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS
 - **Backend:** FastAPI, Flask, Django, Django REST Framework, Node.js, Express.js
 - **Databases:** PostgreSQL, MySQL, SQLite, MariaDB
